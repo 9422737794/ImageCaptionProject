@@ -1,2 +1,2 @@
-# ImageCaptionProject
+# ImageCaptionGenratorProject
 Image Caption Genrator
